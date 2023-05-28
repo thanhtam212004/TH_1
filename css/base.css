@@ -1,0 +1,142 @@
+
+.all .top .LOGO
+{
+    display: flex;
+    position: relative;
+    left: 30px;
+}
+.all .top ul
+{
+    display: flex;
+    position: relative;
+    left: 600px;
+    list-style: none;
+    gap: 30px;
+    bottom: 60px;
+}
+.all .mid1 .banner
+{
+    width: 1300px; 
+    position: relative;
+    bottom: 50px;
+}
+.all .mid2 
+{
+    position: relative;
+    bottom: 52px;
+    left: 210px;
+}
+.all .mid2 .bietthu
+{
+    position: relative;
+    right: 5px;
+}
+.all .mid2 .canho
+{
+    position: relative;
+    right: 10px;
+}
+.all .mid2 .nhapho
+{
+    position: relative;
+    right: 15px;
+}
+.all .mid2 ul 
+{
+    display: flex;
+    font-weight: 800;
+    list-style: none;
+    position: relative;
+    left: 20px;
+    bottom: 70px;
+    font-size: 20px;
+    gap: 120px;
+}
+.all .vecongty
+{
+    display: flex;
+    position: relative;
+    right: 55px;
+}
+.all .mid3 .nhamay
+{
+    width: 23%;
+    position: relative;
+    bottom: 130px;
+    left: 210px;
+}
+.all .mid3 ul
+{
+    font-weight: 700;
+    position: relative;
+    bottom: 210px;
+    left: 280px;
+    list-style: none;
+    font-size: 20px;
+    color:whitesmoke;
+}
+.all .mid4 .showroom
+{
+    width: 23%;
+    position: relative;
+    bottom: 421px;
+    left: 507px;
+}
+.all .mid4 ul
+{
+    color: whitesmoke;
+    list-style: none;
+    position: relative;
+    bottom: 500px;
+    left: 550px;
+    font-size: 20px;
+    font-weight: 800;
+}
+.all .mid5 .gioithieu
+{
+    width: 23%;
+    position: relative;
+    bottom: 711px;
+    left: 804px;
+}
+.all .mid5 ul
+{
+    position: relative;
+    bottom: 790px;
+    left: 870px;
+    list-style: none;
+    font-size: 20px;
+    font-weight: 800;
+    color: whitesmoke;
+}
+.all .end
+{
+    height: 170px;
+    background-color: hwb(56 27% 0%);
+    width: 101%;
+    align-items: center;
+    position: relative;
+    bottom: 750px;
+}
+.all .end .end1 ul
+{
+    
+    list-style: none;
+    position: relative;
+    top: 35px;
+    left: 170px;
+}
+.all .end .end2 ul
+{
+    position: relative;
+    bottom: 90px;
+    left: 470px;   
+    list-style: none;
+}
+.all .end .end3 ul
+{
+    position: relative;
+    left: 780px;
+    bottom: 180px;
+    list-style: none;
+}
